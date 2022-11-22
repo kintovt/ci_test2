@@ -9,6 +9,8 @@
 /[Bb]uilds/
 /[Ll]ogs/
 /[Mm]emoryCaptures/
+/[Rr]ecording/
+/[Rr]ecordings/
 
 # Asset meta data should only be ignored when the corresponding asset is also ignored
 !/[Aa]ssets/**/*.meta
@@ -58,3 +60,10 @@ sysinfo.txt
 # Crashlytics generated file
 crashlytics-build.properties
 
+# Recordings
+*.mp4
+
+.idea
+.DS_Store
+ProjectSettings/ProjectVersion.txt
+UserSettings/Layouts

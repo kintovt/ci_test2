@@ -1,0 +1,54 @@
+fileFormatVersion: 2
+guid: e02b6689c82464434bba9ee99842cd6a
+ScriptedImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 2
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+  script: {fileID: 11500000, guid: a57477913897c46af95d590f580878bd, type: 3}
+  svgType: 1
+  texturedSpriteMeshType: 1
+  svgPixelsPerUnit: 100
+  gradientResolution: 2
+  alignment: 0
+  customPivot: {x: 0, y: 0}
+  generatePhysicsShape: 0
+  viewportOptions: 0
+  preserveViewport: 0
+  advancedMode: 0
+  predefinedResolutionIndex: 0
+  targetResolution: 2160
+  resolutionMultiplier: 1
+  stepDistance: 10
+  samplingStepDistance: 100
+  maxCordDeviationEnabled: 1
+  maxCordDeviation: 1
+  maxTangentAngleEnabled: 0
+  maxTangentAngle: 5
+  keepTextureAspectRatio: 0
+  textureSize: 2048
+  textureWidth: 1024
+  textureHeight: 128
+  wrapMode: 1
+  filterMode: 2
+  sampleCount: 8
+  preserveSVGImageAspect: 0
+  useSVGPixelsPerUnit: 1
+  spriteData:
+    TessellationDetail: 0
+    SpriteRect:
+      name: ButtonSprite
+      originalName: 
+      pivot: {x: 0.5007692, y: 0.49596775}
+      alignment: 0
+      border: {x: 0, y: 0, z: 0, w: 0}
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 325
+        height: 62
+      spriteID: 7c9a16edaeac549f294b8b664b79e86d
+    PhysicsOutlines: []

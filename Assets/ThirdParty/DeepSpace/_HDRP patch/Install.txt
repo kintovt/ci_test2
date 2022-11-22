@@ -1,0 +1,2 @@
+- double click 'DeepSpaceHDRP';
+- install HDRP package via Package Manager: Window > Package Manager > HDRP.

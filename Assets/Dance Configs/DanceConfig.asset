@@ -1,0 +1,78 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 29b3795259864ff68feb1c2ac99e01dd, type: 3}
+  m_Name: DanceConfig
+  m_EditorClassIdentifier: 
+  dances:
+  - location: Resort_Town
+    audio: {fileID: 8300000, guid: 0d477fd53d6a142af9fb6c08684e3bca, type: 3}
+    trackStart: 73
+    danceDuration: 20
+    animationTriggers:
+    - loop_dance_trigger_1
+    - loop_dance_trigger_2
+    - loop_dance_trigger_3
+    randomDance: 1
+    moves: []
+  - location: NYC_Block
+    audio: {fileID: 8300000, guid: 0d477fd53d6a142af9fb6c08684e3bca, type: 3}
+    trackStart: 73
+    danceDuration: 20
+    animationTriggers:
+    - loop_dance_trigger_1
+    - loop_dance_trigger_2
+    - loop_dance_trigger_3
+    randomDance: 1
+    moves: []
+  - location: Cyber_Club
+    audio: {fileID: 8300000, guid: 0d477fd53d6a142af9fb6c08684e3bca, type: 3}
+    trackStart: 73
+    danceDuration: 20
+    animationTriggers:
+    - asia_moves_1
+    - asia_moves_2
+    - asia_moves_3
+    - asia_moves_4
+    randomDance: 1
+    moves: []
+  - location: Deep_Space
+    audio: {fileID: 8300000, guid: 0d477fd53d6a142af9fb6c08684e3bca, type: 3}
+    trackStart: 73
+    danceDuration: 20
+    animationTriggers:
+    - deep_space_1
+    - deep_space_2
+    - deep_space_3
+    randomDance: 1
+    moves: []
+  - location: Rooftop_Asia_Day
+    audio: {fileID: 8300000, guid: 0d477fd53d6a142af9fb6c08684e3bca, type: 3}
+    trackStart: 73
+    danceDuration: 20
+    animationTriggers:
+    - asia_moves_1
+    - asia_moves_2
+    - asia_moves_3
+    - asia_moves_4
+    randomDance: 1
+    moves: []
+  - location: Rooftop_Asia_Night
+    audio: {fileID: 0}
+    trackStart: 73
+    danceDuration: 20
+    animationTriggers:
+    - asia_moves_1
+    - asia_moves_2
+    - asia_moves_3
+    - asia_moves_4
+    randomDance: 1
+    moves: []

@@ -1,0 +1,22 @@
+fileFormatVersion: 2
+guid: b077c050b79414df881f7d6be0e337cc
+TrueTypeFontImporter:
+  externalObjects: {}
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontNames:
+  - NN Nouvelle Grotesk STD
+  fallbackFontReferences:
+  - {fileID: 12800000, guid: 4063d895b52e3454192ae7bf181489b6, type: 3}
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  useLegacyBoundsCalculation: 0
+  shouldRoundAdvanceValue: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

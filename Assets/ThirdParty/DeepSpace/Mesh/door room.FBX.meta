@@ -1,0 +1,696 @@
+fileFormatVersion: 2
+guid: 35a9a889439be694fa35fbe7693aec31
+ModelImporter:
+  serializedVersion: 19301
+  internalIDToNameTable:
+  - first:
+      1: 100000
+    second: cable 1
+  - first:
+      1: 100002
+    second: cable 2
+  - first:
+      1: 100004
+    second: door
+  - first:
+      1: 100006
+    second: //RootNode
+  - first:
+      1: 100008
+    second: Group077
+  - first:
+      1: 100010
+    second: lamp
+  - first:
+      1: 100012
+    second: Line033
+  - first:
+      1: 100014
+    second: Line041
+  - first:
+      1: 100016
+    second: Line042
+  - first:
+      1: 100018
+    second: Line043
+  - first:
+      1: 100020
+    second: Object1220811
+  - first:
+      1: 100022
+    second: Object1220819
+  - first:
+      1: 100024
+    second: Object1220820
+  - first:
+      1: 100026
+    second: Object1220821
+  - first:
+      1: 100028
+    second: Object1220822
+  - first:
+      1: 100030
+    second: Object1220823
+  - first:
+      1: 100032
+    second: Object1220824
+  - first:
+      1: 100034
+    second: Object1220825
+  - first:
+      1: 100036
+    second: Object1220826
+  - first:
+      1: 100038
+    second: Object1220827
+  - first:
+      1: 100040
+    second: Object1220828
+  - first:
+      1: 100042
+    second: Object1220839
+  - first:
+      1: 100044
+    second: Object1220840
+  - first:
+      1: 100046
+    second: Object1220841
+  - first:
+      1: 100048
+    second: Object1220842
+  - first:
+      1: 100050
+    second: Object1220843
+  - first:
+      1: 100052
+    second: Object1220844
+  - first:
+      1: 100054
+    second: Object1220845
+  - first:
+      1: 100056
+    second: appl enter
+  - first:
+      4: 400000
+    second: cable 1
+  - first:
+      4: 400002
+    second: cable 2
+  - first:
+      4: 400004
+    second: door
+  - first:
+      4: 400006
+    second: //RootNode
+  - first:
+      4: 400008
+    second: Group077
+  - first:
+      4: 400010
+    second: lamp
+  - first:
+      4: 400012
+    second: Line033
+  - first:
+      4: 400014
+    second: Line041
+  - first:
+      4: 400016
+    second: Line042
+  - first:
+      4: 400018
+    second: Line043
+  - first:
+      4: 400020
+    second: Object1220811
+  - first:
+      4: 400022
+    second: Object1220819
+  - first:
+      4: 400024
+    second: Object1220820
+  - first:
+      4: 400026
+    second: Object1220821
+  - first:
+      4: 400028
+    second: Object1220822
+  - first:
+      4: 400030
+    second: Object1220823
+  - first:
+      4: 400032
+    second: Object1220824
+  - first:
+      4: 400034
+    second: Object1220825
+  - first:
+      4: 400036
+    second: Object1220826
+  - first:
+      4: 400038
+    second: Object1220827
+  - first:
+      4: 400040
+    second: Object1220828
+  - first:
+      4: 400042
+    second: Object1220839
+  - first:
+      4: 400044
+    second: Object1220840
+  - first:
+      4: 400046
+    second: Object1220841
+  - first:
+      4: 400048
+    second: Object1220842
+  - first:
+      4: 400050
+    second: Object1220843
+  - first:
+      4: 400052
+    second: Object1220844
+  - first:
+      4: 400054
+    second: Object1220845
+  - first:
+      4: 400056
+    second: appl enter
+  - first:
+      23: 2300000
+    second: cable 1
+  - first:
+      23: 2300002
+    second: cable 2
+  - first:
+      23: 2300004
+    second: door
+  - first:
+      23: 2300006
+    second: lamp
+  - first:
+      23: 2300008
+    second: Line033
+  - first:
+      23: 2300010
+    second: Line041
+  - first:
+      23: 2300012
+    second: Line042
+  - first:
+      23: 2300014
+    second: Line043
+  - first:
+      23: 2300016
+    second: Object1220811
+  - first:
+      23: 2300018
+    second: Object1220819
+  - first:
+      23: 2300020
+    second: Object1220820
+  - first:
+      23: 2300022
+    second: Object1220821
+  - first:
+      23: 2300024
+    second: Object1220822
+  - first:
+      23: 2300026
+    second: Object1220823
+  - first:
+      23: 2300028
+    second: Object1220824
+  - first:
+      23: 2300030
+    second: Object1220825
+  - first:
+      23: 2300032
+    second: Object1220826
+  - first:
+      23: 2300034
+    second: Object1220827
+  - first:
+      23: 2300036
+    second: Object1220828
+  - first:
+      23: 2300038
+    second: Object1220839
+  - first:
+      23: 2300040
+    second: Object1220840
+  - first:
+      23: 2300042
+    second: Object1220841
+  - first:
+      23: 2300044
+    second: Object1220842
+  - first:
+      23: 2300046
+    second: Object1220843
+  - first:
+      23: 2300048
+    second: Object1220844
+  - first:
+      23: 2300050
+    second: Object1220845
+  - first:
+      23: 2300052
+    second: appl enter
+  - first:
+      33: 3300000
+    second: cable 1
+  - first:
+      33: 3300002
+    second: cable 2
+  - first:
+      33: 3300004
+    second: door
+  - first:
+      33: 3300006
+    second: lamp
+  - first:
+      33: 3300008
+    second: Line033
+  - first:
+      33: 3300010
+    second: Line041
+  - first:
+      33: 3300012
+    second: Line042
+  - first:
+      33: 3300014
+    second: Line043
+  - first:
+      33: 3300016
+    second: Object1220811
+  - first:
+      33: 3300018
+    second: Object1220819
+  - first:
+      33: 3300020
+    second: Object1220820
+  - first:
+      33: 3300022
+    second: Object1220821
+  - first:
+      33: 3300024
+    second: Object1220822
+  - first:
+      33: 3300026
+    second: Object1220823
+  - first:
+      33: 3300028
+    second: Object1220824
+  - first:
+      33: 3300030
+    second: Object1220825
+  - first:
+      33: 3300032
+    second: Object1220826
+  - first:
+      33: 3300034
+    second: Object1220827
+  - first:
+      33: 3300036
+    second: Object1220828
+  - first:
+      33: 3300038
+    second: Object1220839
+  - first:
+      33: 3300040
+    second: Object1220840
+  - first:
+      33: 3300042
+    second: Object1220841
+  - first:
+      33: 3300044
+    second: Object1220842
+  - first:
+      33: 3300046
+    second: Object1220843
+  - first:
+      33: 3300048
+    second: Object1220844
+  - first:
+      33: 3300050
+    second: Object1220845
+  - first:
+      33: 3300052
+    second: appl enter
+  - first:
+      43: 4300000
+    second: cable 1
+  - first:
+      43: 4300002
+    second: cable 2
+  - first:
+      43: 4300004
+    second: Object1220811
+  - first:
+      43: 4300006
+    second: Object1220839
+  - first:
+      43: 4300008
+    second: door
+  - first:
+      43: 4300010
+    second: Line033
+  - first:
+      43: 4300012
+    second: Line041
+  - first:
+      43: 4300014
+    second: Line043
+  - first:
+      43: 4300016
+    second: Line042
+  - first:
+      43: 4300018
+    second: Object1220819
+  - first:
+      43: 4300020
+    second: Object1220820
+  - first:
+      43: 4300022
+    second: Object1220821
+  - first:
+      43: 4300024
+    second: Object1220822
+  - first:
+      43: 4300026
+    second: Object1220823
+  - first:
+      43: 4300028
+    second: Object1220826
+  - first:
+      43: 4300030
+    second: Object1220825
+  - first:
+      43: 4300032
+    second: Object1220824
+  - first:
+      43: 4300034
+    second: Object1220827
+  - first:
+      43: 4300036
+    second: Object1220828
+  - first:
+      43: 4300038
+    second: Object1220840
+  - first:
+      43: 4300040
+    second: Object1220841
+  - first:
+      43: 4300042
+    second: Object1220845
+  - first:
+      43: 4300044
+    second: Object1220843
+  - first:
+      43: 4300046
+    second: Object1220842
+  - first:
+      43: 4300048
+    second: Object1220844
+  - first:
+      43: 4300050
+    second: lamp
+  - first:
+      43: 4300052
+    second: appl enter
+  - first:
+      74: 7400000
+    second: open
+  - first:
+      74: 7400002
+    second: close
+  - first:
+      95: 9500000
+    second: //RootNode
+  - first:
+      111: 11100000
+    second: //RootNode
+  externalObjects: {}
+  materials:
+    materialImportMode: 0
+    materialName: 0
+    materialSearch: 2
+    materialLocation: 0
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 0
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 1
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations:
+    - serializedVersion: 16
+      name: open
+      takeName: Take 001
+      internalID: 0
+      firstFrame: 0
+      lastFrame: 40
+      wrapMode: 1
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: Group077
+        weight: 1
+      - path: Group077/cable 1
+        weight: 1
+      - path: Group077/cable 2
+        weight: 1
+      - path: Group077/door
+        weight: 1
+      - path: Group077/door/Line033
+        weight: 1
+      - path: Group077/door/Line041
+        weight: 1
+      - path: Group077/door/Line042
+        weight: 1
+      - path: Group077/door/Line043
+        weight: 1
+      - path: Group077/lamp
+        weight: 1
+      - path: Group077/Object1220811
+        weight: 1
+      - path: Group077/Object1220811/Object1220839
+        weight: 1
+      - path: Group077/Object1220819
+        weight: 1
+      - path: Group077/Object1220820
+        weight: 1
+      - path: Group077/Object1220821
+        weight: 1
+      - path: Group077/Object1220822
+        weight: 1
+      - path: Group077/Object1220823
+        weight: 1
+      - path: Group077/Object1220823/Object1220826
+        weight: 1
+      - path: Group077/Object1220825
+        weight: 1
+      - path: Group077/Object1220825/Object1220824
+        weight: 1
+      - path: Group077/Object1220827
+        weight: 1
+      - path: Group077/Object1220828
+        weight: 1
+      - path: Group077/Object1220840
+        weight: 1
+      - path: Group077/Object1220841
+        weight: 1
+      - path: Group077/Object1220841/Object1220845
+        weight: 1
+      - path: Group077/Object1220843
+        weight: 1
+      - path: Group077/Object1220843/Object1220842
+        weight: 1
+      - path: Group077/Object1220844
+        weight: 1
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: close
+      takeName: Take 001
+      internalID: 0
+      firstFrame: 40
+      lastFrame: 80
+      wrapMode: 1
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: Group077
+        weight: 1
+      - path: Group077/cable 1
+        weight: 1
+      - path: Group077/cable 2
+        weight: 1
+      - path: Group077/door
+        weight: 1
+      - path: Group077/door/Line033
+        weight: 1
+      - path: Group077/door/Line041
+        weight: 1
+      - path: Group077/door/Line042
+        weight: 1
+      - path: Group077/door/Line043
+        weight: 1
+      - path: Group077/lamp
+        weight: 1
+      - path: Group077/Object1220811
+        weight: 1
+      - path: Group077/Object1220811/Object1220839
+        weight: 1
+      - path: Group077/Object1220819
+        weight: 1
+      - path: Group077/Object1220820
+        weight: 1
+      - path: Group077/Object1220821
+        weight: 1
+      - path: Group077/Object1220822
+        weight: 1
+      - path: Group077/Object1220823
+        weight: 1
+      - path: Group077/Object1220823/Object1220826
+        weight: 1
+      - path: Group077/Object1220825
+        weight: 1
+      - path: Group077/Object1220825/Object1220824
+        weight: 1
+      - path: Group077/Object1220827
+        weight: 1
+      - path: Group077/Object1220828
+        weight: 1
+      - path: Group077/Object1220840
+        weight: 1
+      - path: Group077/Object1220841
+        weight: 1
+      - path: Group077/Object1220841/Object1220845
+        weight: 1
+      - path: Group077/Object1220843
+        weight: 1
+      - path: Group077/Object1220843/Object1220842
+        weight: 1
+      - path: Group077/Object1220844
+        weight: 1
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    useSRGBMaterialColor: 1
+    sortHierarchyByName: 1
+    importVisibility: 0
+    importBlendShapes: 1
+    importCameras: 0
+    importLights: 0
+    fileIdsGeneration: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 1
+    useFileUnits: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    skinWeightsMode: 0
+    maxBonesPerVertex: 4
+    minBoneWeight: 0.001
+    meshOptimizationFlags: -1
+    indexFormat: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 0
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 1
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  referencedClips: []
+  importAnimation: 1
+  humanDescription:
+    serializedVersion: 3
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    globalScale: 1
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  autoGenerateAvatarMappingIfUnspecified: 1
+  animationType: 1
+  humanoidOversampling: 1
+  avatarSetup: 0
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

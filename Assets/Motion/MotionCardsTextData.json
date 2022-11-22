@@ -1,0 +1,123 @@
+{
+   "data":[
+      {
+         "clip":"mrroboto_dance",
+         "title":"Mr. Robot",
+         "energy":2,
+         "rarity":1,
+         "selected":false
+      },
+      {
+         "clip":"saturdaynight_dance_210112",
+         "title":"Saturday Night",
+         "energy":1,
+         "rarity":1,
+         "selected":false
+      },
+      {
+         "clip":"theymca_dance_210113",
+         "title":"The YMCA",
+         "energy":3,
+         "rarity":1,
+         "selected":false
+      },
+      {
+         "clip":"thriller_dance",
+         "title":"Thriller",
+         "energy":3,
+         "rarity":2,
+         "selected":false
+      },
+      {
+         "clip":"iceicebaby_dance",
+         "title":"Ice Ice Baby",
+         "energy":4,
+         "rarity":2,
+         "selected":false
+      },
+      {
+         "clip":"jumparound_dance",
+         "title":"Jump Around",
+         "energy":4,
+         "rarity":0,
+         "selected":false
+      },
+      {
+         "clip":"nsyncbye_dance",
+         "title":"NSYNC Bye",
+         "energy":3,
+         "rarity":2,
+         "selected":false
+      },
+      {
+         "clip":"punch_68506",
+         "title":"Punch",
+         "energy":1,
+         "rarity":0,
+         "selected":false
+      },
+      {
+         "clip":"shuffle_68509",
+         "title":"Shuffle",
+         "energy":4,
+         "rarity":0,
+         "selected":false
+      },
+      {
+         "clip":"down-02",
+         "title":"Get Down",
+         "energy":2,
+         "rarity":1,
+         "selected":false
+      },
+      {
+         "clip":"born2handjive_dance_210114",
+         "title":"Born To Hand Jive",
+         "energy":2,
+         "rarity":0,
+         "selected":false
+      },
+      {
+         "clip":"greasedlightnin_dance_210115",
+         "title":"Greased Lightning",
+         "energy":2,
+         "rarity":0,
+         "selected":false
+      },
+      {
+         "clip":"wakemeup_dance",
+         "title":"Wake Me Up",
+         "energy":3,
+         "rarity":1,
+         "selected":false
+      },
+      {
+         "clip":"hangintough_dance",
+         "title":"Hangin Tough",
+         "energy":2,
+         "rarity":0,
+         "selected":false
+      },
+      {
+         "clip":"can'ttouchdis_dance",
+         "title":"U Can't Touch This",
+         "energy":4,
+         "rarity":2,
+         "selected":false
+      },
+      {
+         "clip":"popping-hit",
+         "title":"Popping Hit",
+         "energy":4,
+         "rarity":0,
+         "selected":false
+      },
+      {
+         "clip":"the-jerk",
+         "title":"The Jerk",
+         "energy":2,
+         "rarity":0,
+         "selected":false
+      }
+   ]
+}
